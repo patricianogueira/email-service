@@ -14,4 +14,5 @@ Este projeto foi desenvolvido para me preparar para os desafios do mercado de tr
    git checkout master
    cd nome-do-repositorio
     ```
-4. Execute o projeto com o comando `mvn spring-boot:run`
+2. Substitua as informações indicadas no `aplicattions.properties`
+3. Execute o projeto.
