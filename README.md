@@ -10,7 +10,7 @@ Este projeto foi desenvolvido para me preparar para os desafios do mercado de tr
 
 1. Clone o repositório e acesse a pasta do projeto
    ```shell
-   git clone https://github.com/patricianogueira/desafio-picpay
+   git clone https://github.com/patricianogueira/email-service
    git checkout master
    cd nome-do-repositorio
     ```
